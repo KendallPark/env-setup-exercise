@@ -37,7 +37,10 @@ Clone this repo and start messing around.
 3. `atom .` or `subl .`
 
 ## Android Dev Environment Instructions.
-*oh nos the instructions have been deleted!*
+- [Android Studio](https://developer.android.com/studio/install.html) You're gonna need this one for sure
+- [Gradle](http://gradle.org/gradle-download/) Get version 2.1
+- Install ReconJet ADB (get the install script from John)
+- Pray that everything works
 
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
