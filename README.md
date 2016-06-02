@@ -36,6 +36,11 @@ Clone this repo and start messing around.
 
 3. `atom .` or `subl .`
 
+## Android Dev Environment Instructions.
+You're on your own, kid. Sorry.
+
+I have no idea what Android dev environments need other than the Android SDK.
+
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
 - [iTerm2](http://www.iterm2.com/) Way better than Mac's default terminal.
