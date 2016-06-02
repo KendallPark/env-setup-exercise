@@ -37,19 +37,7 @@ Clone this repo and start messing around.
 `atom .` or `subl .`
 
 ## Install Rails Dev Environment
-- [Install postgres](http://postgresapp.com/)
-- [Install and setup rbenv](https://github.com/rbenv/rbenv#homebrew-on-mac-os-x)
-  - `brew install rbenv ruby-build`
-  - Don't forget to uninstall `rvm` via `rvm implode`.
-- Install Ruby 2.3.1
-  - `rbenv install 2.3.1`
-  - `rbenv global 2.3.1`
-  - `ruby -v`
-- Install Rails 5 release candidate
-  - `gem install rails --pre --no-ri --no-rdoc`
-- Install Bundler
-  - `gem install bundler`
-- [Install Heroku toolbelt](https://toolbelt.heroku.com/)
+*oh nos someone has deleted the instructions!*
 
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
