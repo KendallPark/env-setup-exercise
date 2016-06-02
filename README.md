@@ -10,6 +10,11 @@ Command Line Tools for Xcode: `xcode-select --install`, https://developer.apple.
 3. [Generate a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 4. [Add the SSH key to your Github account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
+## Install a text editor
+Recommendations:
+1. [Atom](https://atom.io/)
+2. [Sublime](https://www.sublimetext.com/3)
+
 ## Install Homebrew
 **Requirements: Xcode commandline tools must be installed at this point.**
 
@@ -22,9 +27,23 @@ Individual environment setup instructions are hidden in a fork of this repo. You
 
 You should be using Git through the terminal. No GUI interfaces yet. It's important to understand what's going on under the hood.
 
-`git remote add fork `
+`git remote add upstream `
 
-`git pull remote master`
+`git pull upstream`
+
+## Other Dev Stuff that Kendall Likes
+### Pimp out your terminal
+- [iTerm2](http://www.iterm2.com/) Way better than Mac's default terminal.
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) Manage Zsh. Requires [Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH).
+  - Install Zsh via `brew install zsh zsh-completions`
+- [This powerline theme](https://github.com/bhilburn/powerlevel9k) or [this one](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
+
+### Desktop Apps
+- [Git Tower](http://www.iterm2.com/) Great GUI for Git, you can get a free trial for 30 days. Only use this for STAGING commits.
+- [Spectacle](https://www.spectacleapp.com/) Resize windows with shortcuts.
+- [nvALT](http://brettterpstra.com/projects/nvalt/) For taking notes.
+- [f.lux](https://justgetflux.com/)
+- [Skitch](https://evernote.com/skitch/) Screenshots.
 
 ## Other resources
 - [What's going on with Git under the hood.](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
