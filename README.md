@@ -37,8 +37,7 @@ Clone this repo and start messing around.
 `atom .` or `subl .`
 
 ## Javascript Environment Installation
-- `brew install node`
-- [Redux DevTools Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+*oh nos someone deleted the instructions!*
 
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
