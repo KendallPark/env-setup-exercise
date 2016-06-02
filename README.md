@@ -12,6 +12,7 @@ Command Line Tools for Xcode: `xcode-select --install`, https://developer.apple.
 
 ## Install a text editor
 Recommendations:
+
 1. [Atom](https://atom.io/)
 2. [Sublime](https://www.sublimetext.com/3)
 
@@ -21,15 +22,19 @@ Recommendations:
 [Follow homebrew's instructions.](http://brew.sh/)
 
 ## Next Steps
-Individual environment setup instructions are hidden in a fork of this repo. You'll need a working understanding of Git to figure out how to find them.
+Individual environment setup instructions are hidden in this repo. You'll need a working understanding of Git to figure out how to find them.
 
 [Go through this tutorial.](https://try.github.io/levels/1/challenges/1)
 
 You should be using Git through the terminal. No GUI interfaces yet. It's important to understand what's going on under the hood.
 
-`git remote add upstream `
+Clone this repo and start messing around.
 
-`git pull upstream`
+`git clone git@github.com:KendallPark/env-setup-exercise.git`
+
+`cd git@github.com:KendallPark/env-setup-exercise.git`
+
+`atom .` or `subl .`
 
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
