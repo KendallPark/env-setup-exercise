@@ -36,6 +36,10 @@ Clone this repo and start messing around.
 
 `atom .` or `subl .`
 
+## Javascript Environment Installation
+- `brew install node`
+- [Redux DevTools Chrome Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
 - [iTerm2](http://www.iterm2.com/) Way better than Mac's default terminal.
