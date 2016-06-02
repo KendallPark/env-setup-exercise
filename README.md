@@ -17,9 +17,9 @@ Recommendations:
 2. [Sublime](https://www.sublimetext.com/3)
 
 ## Install Homebrew
-**Requirements: Xcode commandline tools must be installed at this point.**
-
 [Follow homebrew's instructions.](http://brew.sh/)
+
+**Requirements: Xcode commandline tools must be installed for homebrew to work.**
 
 ## Next Steps
 Individual environment setup instructions are hidden in this repo. You'll need a working understanding of Git to figure out how to find them.
@@ -30,11 +30,11 @@ You should be using Git through the terminal. No GUI interfaces yet. It's import
 
 Clone this repo and start messing around.
 
-`git clone git@github.com:KendallPark/env-setup-exercise.git`
+1. `git clone git@github.com:KendallPark/env-setup-exercise.git`
 
-`cd git@github.com:KendallPark/env-setup-exercise.git`
+2. `cd env-setup-exercise`
 
-`atom .` or `subl .`
+3. `atom .` or `subl .`
 
 ## Other Dev Stuff that Kendall Likes
 ### Pimp out your terminal
